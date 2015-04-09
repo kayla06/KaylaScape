@@ -1,2 +1,2 @@
 # KaylaScape
-Source code for the C++ RS Emulator
+Source code for the Java OSRS Emulator
